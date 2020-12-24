@@ -1,7 +1,7 @@
 # Expense-tracker project
 
 ## Stack: React, React Hooks, Context API
-## Demo:  [http://http://sturdy-silk.surge.sh/](http://http://sturdy-silk.surge.sh/)
+## Demo:  [http://sturdy-silk.surge.sh/](http://sturdy-silk.surge.sh/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
